@@ -38,12 +38,18 @@ h2 {
     color: gray;
 }
 
+p {
+    color: rgb(125,125,125);
+}
+
 .Lien1 {
-        display: flex;
-        justify-content: center;
-        border: solid 2px indianred;
-        border-radius: 5px;
-        background-color: indianred;     
+    display: flex;
+    justify-content: center;
+    border: solid 2px indianred;
+    border-radius: 5px;
+    background-color: indianred;     
+    margin-left: 35%;
+    width: 35%;
 }
 
 .wrapper {
@@ -52,6 +58,7 @@ h2 {
     border: lightgrey solid 2px;
     text-align: center;
     margin-bottom: 15px;
+    padding-block-end: 15px;
 }
 
 
