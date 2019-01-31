@@ -40,6 +40,7 @@ h2 {
 
 p {
     color: rgb(125,125,125);
+    font-size: 15px;
 }
 
 .Lien1 {
@@ -90,10 +91,10 @@ a {
 
 .mini-text {
 
-    font-size:12px;
+    font-size:13px;
     font-family: montserrat;
     color: rgb(125,125,125);
-    line-height: 2;
+    line-height: 3;
     text-align: left;
     
 }
@@ -130,7 +131,10 @@ a {
     font-family: montserrat;
     color: rgb(125,125,125);
     padding: 3%;
-
+}
+mark {
+background-color: lightgray;
+color: rgb(125,125,125);
 }
  
 .bannersocial{
